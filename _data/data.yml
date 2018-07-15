@@ -1,0 +1,175 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output. 
+#
+
+sidebar:
+    # Site Settings
+    title: Madhukar YR
+    url: 'http://www.cse.iitd.ernet.in/'
+    about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
+    
+    # Profile information
+    name:  Madhukar YR
+    tagline: 'Research Scholar <br> Department of Computer Science & Engineering <br><b>IIT Delhi</b>'
+    pic: profile_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    
+    # Sidebar links
+    email: rathnakar.madhukar.yerraguntla@iitd.ac.in
+    phone: +91-8800171928
+    website: mycroft92.github.io #do not add http://
+    github: mycroft92
+    twitter: '@lean_panda'
+
+    advisor: 
+      - advisor:
+        name: Subodh V. Sharma
+        link: http://www.cse.iitd.ernet.in/~svs/
+
+    research: 
+      - interest:
+        item: Verification Of Cyber-Physical Systems
+        link:
+
+    languages:
+        - language:
+          idiom: English
+          level: Fluent
+        - language:
+          idiom: Hindi
+          level: Proficient
+        - language:
+          idiom: Telugu
+          level: Native
+        
+    interests:
+        - interest:
+          item: Video Games
+          link:
+        - interest:
+          item: Indian Flute(Bansuri)
+          link:
+        - interest:
+          item: Indian Mythology
+          link:
+
+        
+
+
+
+
+career-profile: 
+    title: About Me
+    text: '<p>I&rsquo;m a a part-time research scholar in Department of Computer Science &amp; Engineering, 
+    IIT Delhi under <a href="http://www.cse.iitd.ernet.in/~svs/">Dr.Subodh Sharma </a> since 2016 and am a full-time CAD engineer at NXP semiconductors(formerly Freescale Inc) since 2014. 
+    I completed my Masters in Control Systems as a part of Dual degree integrated programme from IIT Kharagpur(2009-14).
+    I am natively from Guntur, Andhra Pradesh.</p>
+    <p>My areas of interest include formal verification, hybrid automata, control theory, synthesis and verification and cyber physical systems.</p>'
+
+
+
+studies: 
+    - education:
+      degree: M.Tech in Control Systems
+      university: IIT Kharagpur
+      time: 2009 - 2014
+      details: "Dual Degree in Electrical Engineering with specialization in Control Systems."
+
+    - education:
+      degree: B. Tech in Electrical Engineering
+      university: IIT Kharagpur
+      time: 2009 - 2014
+      details: "Dual degree in Electrical Engineering"
+
+
+
+experiences:
+    title: Experiences
+    
+    
+    experiences:
+        - role: CAD Engineer II
+          time: 2016 - Present
+          company: NXP Semiconductors India PVT ltd
+          details: 'I am part of a team that develops differential tools for Analog Mixed Signal and digital design Verification. We develop flows that leverage existing 
+          formal methodologies to solve various functional and interface issues in hardware logic.'
+
+        - role: Design Engineer
+          time: 2014 - 2016
+          company: Freescale Semiconductors India PVT ltd
+          details: Verification flows and methodologies expert
+        
+
+
+projects:
+    title: Projects
+    intro: "These are projects I am currently working on both at my work place and school."
+    
+    projects:
+      - project:
+        title: Safety Verification of Li-ion Batteries
+        link: "#"
+        tagline: 'Li-ion battery systems are part of almost every cyber-physical system. Their high energy to weight ratio makes them very portable and at the same 
+time poses many risks. The charging and discharging patterns should be followed strictly. This work tries to answer whether a charge-discharge 
+pattern is "safe" on a battery through formal means.'
+      - project:
+        title: Lancelot
+        link: "#hook"
+        tagline: "TBD"
+      - project:
+        title: Webcrawler
+        link: "#"
+        tagline: "TBD"
+      
+      
+
+courses:
+    title: Courses Undertaken
+    courses:
+      - COL765:
+        title: COL765
+        name : Introduction to Logic and Functional Programming
+      - COL750:
+        title: COL750
+        name: Foundations of Automatic Verification
+      - COL871:
+        title: COL871
+        name : Spl. Topics in Programming Languages and Compilers 
+      - COL728:
+        title: COL728
+        name : Compiler Design
+      
+
+
+
+
+
+publications:
+    title: Publications
+    intro: ""
+
+    publications:
+      - paper: Technical Report
+        title: Towards a Formal Framework for Specifying Feature based Equivalence between AMS Models
+        authors: Pallab Dasgupta, Siddhartha Mukhopadhyay, Antara Ain, Chitresh Sinha, Madhukar. Y. R
+        conference: Technical Report, SRC Task &colon; 2267.001
+     
+
+
+# skills:
+#     title: Skills &amp; Proficiency
+#     skills:
+#         - skill:
+#           name: Python 
+#           level: 90%
+#         - skill:
+#           name: Verilog-AMS
+#           level: 90%
+#         - skill:
+#           name: Matlab
+#           level: 80%
+#         - skill:
+#           name: C++
+#           level: 80%
+
+footer: 
+    text: '&copy; 2018 Rathnakar Madhukar Yerraguntla. Site made with Jekyll theme: <a href="http://webjeda.com/online-cv/">online-cv</a>'

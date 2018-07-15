@@ -1,0 +1,29 @@
+{% if site.data.data.projects %}
+<section class="section projects-section">
+
+  <h2 class="section-title">
+    <i class="fa fa-rocket"></i>{{ site.data.data.courses.title }}</h2>
+
+  {% if site.data.data.courses.intro %}
+  <div class="intro">
+    <p>{{ site.data.data.courses.intro }}</p>
+  </div>
+  <!--//intro-->
+  {% endif %} {% for course in site.data.data.courses.courses %}
+  <div class="item">
+
+    <span class="course-title">
+      <b >{{ course.title }}</b>
+    </span>
+
+    {% if course.name %} -
+    <span class="project-tagline">{{ course.name }}</span>
+    {% endif %}
+
+  </div>
+  <!--//item-->
+  {% endfor %}
+
+</section>
+<!--//section-->
+{% endif %}
