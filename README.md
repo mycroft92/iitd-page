@@ -1,1 +1,1 @@
-This is my repo for the static site on IITD. It is a fork of the MIT licensed theme at https://github.com/sharu725/online-cv.
+This is my repo for the static site on IITD cse server. It is a fork of the MIT licensed theme at https://github.com/sharu725/online-cv.
