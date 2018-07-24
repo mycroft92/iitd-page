@@ -5,7 +5,7 @@
 sidebar:
     # Site Settings
     title: Madhukar YR
-    url: 'http://www.cse.iitd.ernet.in/'
+    url: 'http://www.cse.iitd.ernet.in/~madhukar/'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
@@ -14,7 +14,7 @@ sidebar:
     pic: profile_pic.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
     
     # Sidebar links
-    email: rathnakar.madhukar.yerraguntla@iitd.ac.in
+    email: 'madhukar.yr AT cse.iitd.ac.in'
     phone: +91-8800171928
     website: mycroft92.github.io #do not add http://
     github: mycroft92
@@ -116,7 +116,7 @@ pattern is "safe" on a battery through formal means.'
         link: "#hook"
         tagline: "TBD"
       - project:
-        title: Webcrawler
+        title: Webhead
         link: "#"
         tagline: "TBD"
       
