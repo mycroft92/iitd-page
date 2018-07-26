@@ -102,7 +102,7 @@ experiences:
 
 projects:
     title: Projects
-    intro: "These are projects I am currently working on both at my work place and school."
+    intro: "These are projects I am currently working on here in IITD."
     
     projects:
       - project:
@@ -111,14 +111,14 @@ projects:
         tagline: 'Li-ion battery systems are part of almost every cyber-physical system. Their high energy to weight ratio makes them very portable and at the same 
 time poses many risks. The charging and discharging patterns should be followed strictly. This work tries to answer whether a charge-discharge 
 pattern is "safe" on a battery through formal means.'
-      - project:
-        title: Lancelot
-        link: "#hook"
-        tagline: "TBD"
-      - project:
-        title: Webhead
-        link: "#"
-        tagline: "TBD"
+      # - project:
+      #   title: Lancelot
+      #   link: "#hook"
+      #   tagline: "TBD"
+      # - project:
+      #   title: Webhead
+      #   link: "#"
+      #   tagline: "TBD"
       
       
 

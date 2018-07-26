@@ -1,6 +1,6 @@
 #Update all the sections by editing the data.yml file inside _data folder.
 
-baseurl: '/2016csz8230' #change it according to your repository name
+baseurl: '/~madhukar' #change it according to your repository name
 
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: blue # blue turquoise green berry orange ceramic
