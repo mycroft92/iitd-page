@@ -15,7 +15,7 @@ sidebar:
     
     # Sidebar links
     email: 'madhukar.yr AT cse.iitd.ac.in'
-    phone: +91-8800171928
+    # phone: +91-8800171928
     website: mycroft92.github.io #do not add http://
     github: mycroft92
     twitter: '@lean_panda'
@@ -96,21 +96,21 @@ studies:
 
 
 
-experiences:
-    title: Experiences
+# experiences:
+#     title: Work Experience
     
     
-    experiences:
-        - role: CAD Engineer II
-          time: 2016 - Present
-          company: NXP Semiconductors India PVT ltd
-          details: 'I am part of a team that develops differential tools for Analog-Mixed Signal and digital design Verification. We develop flows that leverage existing 
-          formal methodologies to solve various functional and interface issues in hardware logic.'
+#     experiences:
+#         - role: CAD Engineer II
+#           time: 2016 - Present
+#           company: NXP Semiconductors India PVT ltd
+#           details: 'I am part of a team that develops differential tools for Analog-Mixed Signal and digital design Verification. We develop flows that leverage existing 
+#           formal methodologies to solve various functional and interface issues in hardware logic.'
 
-        - role: Design Engineer
-          time: 2014 - 2016
-          company: Freescale Semiconductors India PVT ltd
-          details: Verification flows and methodologies expert
+#         - role: Design Engineer
+#           time: 2014 - 2016
+#           company: Freescale Semiconductors India PVT ltd
+#           details: Verification flows and methodologies expert
         
 
 
